@@ -5,7 +5,8 @@ www.twitter.com/LaNikaBot
 
 5 August 2017
 
-LaNika is a communication bot. She is just a small baby now and can only greet you in three languages. But she is very cute, intelligent and no doubt she'll learn many interestig thing very soon!
+LaNika is a communication bot. She can speak English, German und Russian. 
+She is very cute, intelligent and no doubt she'll learn many different interestig things very soon!
 
 FIND NIKA:
 1. Look for @LaNikaBot in Telegram
