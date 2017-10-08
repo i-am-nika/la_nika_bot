@@ -18,7 +18,7 @@ FIND NIKA:
  #__author__ = "Tetyana Chernenko"
 #__copyright__ = "Copyright (c) 2017 Tetyana Chernenko"
 #__credits__ = ["Tetyana Chernenko"]
-#__license__ = "Public Domain"
+#__license__ = "GNU General Public License v3.0"
 #__version__ = "1.0.0"
 #__maintrainer__ = "Tetyana Chernenko"
 #__email__ = "lanikabot@gmail.com"
